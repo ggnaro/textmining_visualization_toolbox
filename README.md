@@ -7,5 +7,6 @@
 - a comparison method to show differences of TF-IDF scores, short article or sentences fit it(radar_plotting.ipynb)
 
 ### LDA-visualization
+- A corpus level, huge volume of texts, to show pososible topic inside corpus (LDA_visualization.ipynb) 
 
 ### word2vec, and the others techniques
