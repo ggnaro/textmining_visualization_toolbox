@@ -6,9 +6,9 @@
 ![wordcloud](./assets/wordcloud.png)<br>
 - to use a precise segmenting module [ckip_tagger.ipynb](./ckip_tagger.ipynb)
 - a comparison method to show differences of TF-IDF scores, short article or sentences fit it [radar_plotting.ipynb](./radar_plotting.ipynb)<br>
-![radarplot](./assets/radar_plot.png)<br>
+![radarplot](./assets/radar_plot.png =50%x)<br>
 
 ### LDA-visualization
 - A corpus level, huge volume of texts, to show pososible topic inside corpus [LDA_visualization.ipynb](./LDA_visualization.ipynb)<br> 
-![ldavis](./assets/LDA_Vis_modules.png)<br>
+![ldavis](./assets/LDA_Vis_modules.png =50%x)<br>
 ### word2vec, and the others techniques
